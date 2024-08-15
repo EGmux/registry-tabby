@@ -108,7 +108,7 @@
     "name": "DeepseekCoder-6.7B",
     "provider_url": "https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-base",
     "urls": [
-      "https://huggingface.co/icycodes/deepseek-coder-6.7b-base-GGUF/resolve/main/deepseek-coder-6.7b-base.Q5_K_M.gguf"
+      "https://huggingface.co/TheBloke/deepseek-coder-6.7b-base-GGUF/resolve/main/deepseek-coder-6.7b-base.Q5_K_M.gguf"
     ],
     "sha256": "de874d119b3a8e6e7d5ca066cc8e8c0038196c9b3524a50ed2c967a1bcb641b9"
   },
